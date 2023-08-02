@@ -1,5 +1,5 @@
 # particle-tracking
-Identifying particle positions and sizes using convolution by least square fitting (Chi-squared method)
+Identifying particle positions and sizes using least square fitting (Chi-squared method) by convolution
 
 This repository contains files on particle tracking using convolution by chi-squared minimization. 
 input movie: particle_movie.mp4
